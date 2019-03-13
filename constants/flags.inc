@@ -2639,8 +2639,8 @@
 	.equiv FLAG_0x8A3,                      0x8A3
 	.equiv FLAG_0x8A4,                      0x8A4
 	.equiv FLAG_0x8A5,                      0x8A5
-	.equiv FLAG_0x8A6,                      0x8A6
-	.equiv FLAG_0x8A7,                      0x8A7
+	.equiv FLAG_UNLOCK_BATTLE_FRONTIER,     0x8A6
+	.equiv FLAG_UNLOCK_BATTLE_FRONTIER,     0x8A7
 	.equiv FLAG_UNLOCK_BATTLE_FRONTIER,     0x8A8
 	.equiv FLAG_UNLOCK_SOUTHERN_ISLAND,     0x8A9
 	.equiv FLAG_0x8AA,                      0x8AA
